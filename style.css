@@ -39,5 +39,5 @@ button{
 }
 
 .show{
-    display: none;
+    display: block;
 }
